@@ -1,6 +1,7 @@
 # Micro Proyecto final curso
 
 Micro Proyecto final curso. Gestión de Zoológico
+
 Creamos una carpeta: exam-java fuera de la carpeta utilizada durante el curso
 Añadimos un fichero readme.md con un título
 Añadimos un fichero .gitignore para Java-Maven
@@ -12,7 +13,12 @@ group id: "com.cdsb"
 name: "exam"
 Añadimos un nuevo commit: "Add project"
 Lo subimos a GitHub
+
+
+
+
 Gestión de Zoológico: requisitos
+
 Los requisitos que nos llegan del cliente son los siguientes:
 
 Tengo un zoológico (zoo) y quiero un sistema que me ayude a gestionarlo

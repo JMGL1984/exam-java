@@ -1,0 +1,16 @@
+// Enums
+enum AnimalType {
+    MAMMAL, BIRD, REPTILE, AQUATIC
+}
+
+enum Diet {
+    HERBIVORE, CARNIVORE, OMNIVORE
+}
+
+enum Behavior {
+    SOCIAL, SOLITARY, PREDATOR, PREY
+}
+
+enum HabitatType {
+    TERRESTRIAL, AQUATIC, TERRARIUM
+}
